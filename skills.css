@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+.cnt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    gap: 5pxs;
+}
+span{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    height: 2cm;
+    width: 4cm;
+}
+.good{
+    background-color: rgb(187, 199, 76);
+    height: 200px;
+    width: 500px;
+    border-radius: 20px;
+    
+}
